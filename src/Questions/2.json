@@ -1,0 +1,119 @@
+{
+  "1" : {
+    "q" : "Who gives Robert Baratheon poisoned wine?",
+    "a" : "Cersei Lannister",
+    "b" : "Lancel Lannister ",
+    "c" : "Jaime Lannister",
+    "d" : "Petyr Baelish",
+    "s" : "b",
+    "50-50" : "a"
+  },
+  "2" : {
+    "q" : "What's the name of the explosive that gave the Lannisters the edge in the Battle of Blackwaters Bay?",
+    "a" : "DragonFire",
+    "b" : "WildFire",
+    "c" : "GhostFire",
+    "d" : "GodsFire",
+    "s" : "b",
+    "50-50" : "a"
+  },
+  "3" : {
+    "q" : "Who is known as “The Queen of Thorns”? ",
+    "a" : "Cersei Lannister",
+    "b" : "Margaery Tyrell",
+    "c" : "Olenna Tyrell",
+    "d" : "Yara Greyjoy",
+    "s" : "c",
+    "50-50" : "b"
+  },
+  "4" : {
+    "q" : "What relation is mad king to Daenerys Targaryen?",
+    "a" : "GrandFather",
+    "b" : "Father",
+    "c" : "Uncle",
+    "d" : "Brother",
+    "s" : "b",
+    "50-50" : "a"
+  },
+  "5" : {
+    "q" : "Which city did Daenerys Targaryen visit first?",
+    "a" : "Meereen",
+    "b" : "Qarth",
+    "c" : "Yunkai",
+    "d" : "Astapor",
+    "s" : "b",
+    "50-50" : "d"
+  },
+  "6" : {
+    "q" : "What does one horn blast mean for the Night's Watch?",
+    "a" : "Rangers returning",
+    "b" : "Rangers in trouble",
+    "c" : "Wildlings spotted",
+    "d" : "Arrival of Lord Commander",
+    "s" : "a",
+    "50-50" : "d"
+  },
+  "7" : {
+    "q" : "Where does Tyrion Lannister meet Shae first?",
+    "a" : "The Eyrie",
+    "b" : "The Lannister Camp",
+    "c" : "King’s Landing",
+    "d" : "A Brothel in the North",
+    "s" : "b",
+    "50-50" : "d"
+  },
+  "8" : {
+    "q" : "Which king or queen has Barristan Selmy NOT served?",
+    "a" : "Daenerys Targaryen",
+    "b" : "Robert Baratheon",
+    "c" : "Tommen Baratheon",
+    "d" : "Aerys II Targaryen",
+    "s" : "c",
+    "50-50" : "d"
+  },
+  "9" : {
+    "q" : "Which title does Viserys Targaryen NOT use?",
+    "a" : "First of His Name",
+    "b" : "King of the Andals and the First Men",
+    "c" : "Protector of the Realm",
+    "d" : "Lord of the Seven Kingdoms",
+    "s" : "a",
+    "50-50" : "d"
+  },
+  "10" : {
+    "q" : "Who does Oberyn Martell seek revenge for?",
+    "a" : "His wife",
+    "b" : "His mother",
+    "c" : "His daughter",
+    "d" : "His sister",
+    "s" : "d",
+    "50-50" : "c"
+  },
+  "11" : {
+    "q" : "Which of these is NOT a group in the night’s watch?",
+    "a" : "The Rangers",
+    "b" : "The Builders",
+    "c" : "The Guards",
+    "d" : "The Stewards",
+    "s" : "c",
+    "50-50" : "b"
+  },
+  "12" : {
+    "q" : "Which one of these is NOT a name of the three dragons?",
+    "a" : "Rhaegal",
+    "b" : "Viserion",
+    "c" : "Drogon",
+    "d" : "Balerion",
+    "s" : "d",
+    "50-50" : "b"
+  },
+  "13" : {
+    "q" : "Who saves Sansa Stark during the Riot of King's Landing?",
+    "a" : "The Hound",
+    "b" : "Tyrion Lannister",
+    "c" : "Joffrey Lannister",
+    "d" : "Petyr Baelish",
+    "s" : "a",
+    "50-50" : "b"
+  }
+}
