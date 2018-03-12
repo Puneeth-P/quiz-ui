@@ -9,6 +9,7 @@ import Round2 from './Round2.js';
 import Round3 from './Round3.js';
 import Round4 from './Round4.js';
 import Round5 from './Round5.js';
+
 import Round6 from './Round6.js';
 
 class App extends Component {
@@ -30,6 +31,7 @@ class App extends Component {
                 <Route path="/home/round3" component={Round3}/>
                 <Route path="/home/round4" component={Round4}/>
                 <Route path="/home/round5" component={Round5}/>
+               
                 <Route path="/home/round6" component={Round6}/>
                <Redirect from="/" to="/home"/>
             </Switch>

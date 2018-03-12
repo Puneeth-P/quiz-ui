@@ -32,7 +32,7 @@ class Round2 extends Component {
            isCorrectAns: false,
            isWrongAns: false,
            selected: "",
-            lifeLineSelected: false
+           lifeLineSelected: false
            
         };
     }
@@ -124,7 +124,7 @@ class Round2 extends Component {
             return "green";
         }
         else if(optionNum == this.state.selected && this.state.isWrongAns) {
-            return "red";
+            return "orange";
         }
         else {
             return "#9E2A2B"
@@ -191,14 +191,14 @@ class Round2 extends Component {
                         </Panel>
                         <Row style={rowStyle}>
             
-            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", backgroundColor: this.getColor("a"), display: this.display("a")}} onClick={(e) => this.checkAns("a")}>{this.state.optionA}</button>
-            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", backgroundColor: this.getColor("b"), display: this.display("b")}} onClick={(e) => this.checkAns("b")}>{this.state.optionB}</button>
+            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", fontSize: "1.2em", textTransform: "none", backgroundColor: this.getColor("a"), display: this.display("a")}} onClick={(e) => this.checkAns("a")}>{this.state.optionA}</button>
+            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", fontSize: "1.2em", textTransform: "none", backgroundColor: this.getColor("b"), display: this.display("b")}} onClick={(e) => this.checkAns("b")}>{this.state.optionB}</button>
            
           </Row>
            
             <Row style={rowStyle}>
-            <button className="btn btn-2 btn-2b" style={{width:"35%", color: "white", backgroundColor: this.getColor("c"),  display: this.display("c")}} onClick={(e) => this.checkAns("c")}>{this.state.optionC}</button>
-            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", backgroundColor: this.getColor("d"),  display: this.display("d")}} onClick={(e) => this.checkAns("d")}>{this.state.optionD}</button>
+            <button className="btn btn-2 btn-2b" style={{width:"35%", color: "white", fontSize: "1.2em",  textTransform: "none", backgroundColor: this.getColor("c"),  display: this.display("c")}} onClick={(e) => this.checkAns("c")}>{this.state.optionC}</button>
+            <button className="btn btn-2 btn-2b" style={{width: "35%", color: "white", fontSize: "1.2em", textTransform: "none", backgroundColor: this.getColor("d"),  display: this.display("d")}} onClick={(e) => this.checkAns("d")}>{this.state.optionD}</button>
            
        
             </Row>

@@ -1,0 +1,271 @@
+{
+    "10" : {
+        "1" : {
+            "q" : "In the acronym DSLR, what does letter R stand for?",
+            "a" : "Release",
+            "b" : "Regular",
+            "c" : "Reflex",
+            "d" : "Remote",
+            "s" : "c"
+          },
+          "2" : {
+            "q" : "What is the first element on the periodic table of elements?",
+            "a" : "Hydrogen",
+            "b" : "Helium",
+            "c" : "Neon",
+            "d" : "Nitrogen",
+            "s" : "a"
+            
+          },
+          "3" : {
+            "q" : "How many bones are there in the human body?",
+            "a" : "204",
+            "b" : "208",
+            "c" : "206",
+            "d" : "210",
+            "s" : "c"
+            
+          },
+          "4" : {
+            "q" : "Which of these companies has a bird as its logo?",
+            "a" : "Yahoo",
+            "b" : "Spotify",
+            "c" : "Twitter",
+            "d" : "Facebook",
+            "s" : "c"
+            
+          },
+          "5" : {
+            "q" : "Which of these HTTP status code implies 'Resource not found'?",
+            "a" : "200",
+            "b" : "400",
+            "c" : "305",
+            "d" : "404",
+            "s" : "d"
+            
+          },
+          "6" : {
+            "q" : "Which state has highest number of Rajya Sabha seats?",
+            "a" : "Uttar Pradesh",
+            "b" : "Andhra Pradesh",
+            "c" : "West Bengal",
+            "d" : "Madhya Pradesh",
+            "s" : "a"
+            
+          },
+          "7" : {
+            "q" : "The arrow under the Amazon logo points from the letter 'A' to which other letter in the name Amazon?",
+            "a" : "N",
+            "b" : "Z",
+            "c" : "O",
+            "d" : "A",
+            "s" : "b"
+        },
+        "8" : {
+            "q" : "In what order did the Bronze Age, Iron Age, and Stone Age occur?",
+            "a" : "Stone Age, Bronze Age, Iron Age",
+            "b" : "Bronze Age, Stone Age, Iron Age",
+            "c" : "Stone Age, Iron Age, Bronze Age",
+            "d" : "Bronze Age, Iron Age, Stone Age",
+            "s" : "a"
+        },
+        "9" : {
+            "q" : "Who among the following have not won the ICC Cricket World Cup?",
+            "a" : "Pakistan",
+            "b" : "England",
+            "c" : "West Indies",
+            "d" : "Sri Lanka",
+            "s" : "b"
+        },
+        "10" : {
+            "q" : "The arrow under the Amazon logo points from the letter 'A' to which other letter in the name Amazon?",
+            "a" : "N",
+            "b" : "Z",
+            "c" : "O",
+            "d" : "A",
+            "s" : "b"
+        },
+        "11" : {
+            "q" : "Which is the hottest planet in our solar system?",
+            "a" : "Mars",
+            "b" : "Venus",
+            "c" : "Earth",
+            "d" : "Mercury",
+            "s" : "b"
+        },
+        
+        "12" : {
+            "q" : "Which is the capital of Australia?",
+            "a" : "Melbourne",
+            "b" : "Sydney",
+            "c" : "Canberra",
+            "d" : "Brisbane",
+            "s" : "c"
+            
+          },
+        
+        "13" : {
+            "q" : "What number is the top most right in the snakes and ladder game?",
+            "a" : "10",
+            "b" : "100",
+            "c" : "91",
+            "d" : "1",
+            "s" : "c"
+        },
+        "14" : {
+            "q" : "When added together, how many days are there in June, July and August?",
+            "a" : "91",
+            "b" : "92",
+            "c" : "93",
+            "d" : "90",
+            "s" : "b"
+        },
+        "15" : {
+            "q" : "How many holes are there in a ten pin bowling ball?",
+            "a" : "4",
+            "b" : "3",
+            "c" : "2",
+            "d" : "5",
+            "s" : "b"
+        },
+        "16" : {
+            "q" : "How many consonants are there in English alphabet?",
+            "a" : "19",
+            "b" : "20",
+            "c" : "22",
+            "d" : "21",
+            "s" : "d"
+        },
+        "17" : {
+            "q" : "How many right angles are there in a rectangle?",
+            "a" : "4",
+            "b" : "2",
+            "c" : "8",
+            "d" : "6",
+            "s" : "a"
+        },
+        "18" : {
+            "q" : "In the hexadecimal format, what color is 'FFFFFF'?",
+            "a" : "Red",
+            "b" : "Grey",
+            "c" : "White",
+            "d" : "Black",
+            "s" : "c"
+        },
+        "19" : {
+            "q" : "Which condition is treated with insulin?",
+            "a" : "Epilepsy",
+            "b" : "Diabetes",
+            "c" : "Asthma",
+            "d" : "Cancer",
+            "s" : "b"
+        },
+        "20" : {
+            "q" : "What is the name of Microsoft's search engine?",
+            "a" : "Google",
+            "b" : "Bing",
+            "c" : "Baidu",
+            "d" : "Azure",
+            "s" : "b"
+        },
+        "21" : {
+            "q" : "A dice is rolled. What is the probability of getting a multiple of 5?",
+            "a" : "1/6",
+            "b" : "1/5",
+            "c" : "1/4",
+            "d" : "1/2",
+            "s" : "a"
+        },
+        "22" : {
+            "q" : "What are the two colors in Dominos Pizza logo?",
+            "a" : "Red and Blue",
+            "b" : "Red and Yellow",
+            "c" : "Blue and Yellow",
+            "d" : "No specific color",
+            "s" : "a"
+        },
+        "23" : {
+            "q" : "What is the first letter on a typewriter?",
+            "a" : "Q",
+            "b" : "A",
+            "c" : "Z",
+            "d" : "P",
+            "s" : "a"
+        },
+        "24" : {
+            "q" : "If in a dice, the numbers are represented by dots, totally how many dots are there in that dice?",
+            "a" : "19",
+            "b" : "22",
+            "c" : "20",
+            "d" : "21",
+            "s" : "d"
+        },
+        "25" : {
+            "q" : "Which is the smallest ocean in the world?",
+            "a" : "Arctic Ocean",
+            "b" : "Atlantic Ocean",
+            "c" : "Pacific Ocean",
+            "d" : "Indian Ocean",
+            "s" : "a"
+        }
+    },
+
+    "20" : {
+        "1" : {
+            "q" : "Which finger's nail grows faster?",
+            "a" : "Middle finger",
+            "b" : "Index Finger",
+            "c" : "Thumb",
+            "d" : "Ring Finger",
+            "s" : "a"
+            
+          },
+          "2" : {
+            "q" : "Where is the smallest bone in the body?",
+            "a" : "Nose",
+            "b" : "Ear",
+            "c" : "Finger",
+            "d" : "Toe",
+            "s" : "b"
+           
+          },
+          "3" : {
+            "q" : "In which year was the first iPhone released?",
+            "a" : "2006",
+            "b" : "2005",
+            "c" : "2007",
+            "d" : "2008",
+            "s" : "c"
+            
+          }
+    },
+    "40" : {
+        "1" : {
+            "q" : "Which finger's nail grows faster?",
+            "a" : "Middle finger",
+            "b" : "Index Finger",
+            "c" : "Thumb",
+            "d" : "Ring Finger",
+            "s" : "a"
+           
+          },
+          "2" : {
+            "q" : "Where is the smallest bone in the body?",
+            "a" : "Nose",
+            "b" : "Ear",
+            "c" : "Finger",
+            "d" : "Toe",
+            "s" : "b"
+            
+          },
+          "3" : {
+            "q" : "In which year was the first iPhone released?",
+            "a" : "2006",
+            "b" : "2005",
+            "c" : "2007",
+            "d" : "2008",
+            "s" : "c"
+           
+          }
+    }
+}

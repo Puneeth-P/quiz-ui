@@ -16,7 +16,7 @@ class Round1 extends Component {
            question: "",
            doneQuestionsList: [],
            min: 1,
-           max: 15,
+           max: 20,
            error: "Oops!! Round 1 questions are exhausted!!"
            
         };

@@ -1,0 +1,88 @@
+{
+    "India" : {
+        "1": "Who is the current richest Indian?",
+        "2": "What is the tax slab percentage you fall in if your salary is between 5L - 10L in India?",
+        "3": "What is the capital of Jharkand?"
+    },
+    "Logos" : {
+        "1": "Which car logo is a gold bull in a black background?",
+        "2": "Which animal is present in the logo of Reserve Bank of India?",
+        "3": "What is the color of letter 'E' in google logo?"
+    },
+    "Expedia" : {
+        "1": "Which rail company did Expedia acquire last year?",
+        "2": "What is the previous name of Egencia?",
+        "3": "Which year did Expedia acquire Homeaway?"
+    },
+    "Hollywood" : {
+        "1": "Where is Thor from?",
+        "2": "In which year the movie 'Titanic' got released?",
+        "3": "Which is the highest ever grossing movie in Hollywood?"
+    },
+    "Tech" : {
+        "1": "Who is the last CEO of yahoo?",
+        "2": "Which image sharing site was purchased by Facebook in 2012?",
+        "3": "What is the name of the cloud platform services provided by Microsoft?"
+    },
+    "Friends" : {
+        "1": "How many sisters does Joey have?",
+        "2": "How many babies did Phoebe carry for her brother?",
+        "3": "What was Rachel's surname?"
+    },
+    "Cricket" : {
+        "1": "Which is the current ICC top ranked T20 team in the world?",
+        "2": "Who has scored the most runs in IPL till date?",
+        "3": "Who has the highest number of wickets in ODIs?"
+    },
+    "Football" : {
+        "1": "Where was the 2014 Football world cup held?",
+        "2": "Which team won the most Champions League Title ever?",
+        "3": "What is the current age of Messi?"
+    },
+    "Got" : {
+        "1": "What is the nickname of Petyr Baelish?",
+        "2": "Who gives Robert Baratheon poisoned wine?",
+        "3": "Grey Worm is the leader of which group?"
+    },
+    "Ads" : {
+        "1": "Which brand has the tagline 'The Taste of India'?",
+        "2": "Which Indian actress endorses Axis Bank?",
+        "3": "Which restaurant chain uses the tagline 'Yeh Hai Rishton Ka Time'?"
+    },
+    "Sports" : {
+        "1": "How many players are on each side of the net in beach volleyball?",
+        "2": "Who won Australian Open 2018?",
+        "3": "How many holes are there on a golf course?"
+    },
+    "Geography" : {
+        "1": "How many timezones are there in the world?",
+        "2": "What is the capital of Spain?",
+        "3": "How many countries are there in the world?"
+    },
+    "Politics" : {
+        "1": "Who was the fist woman prime minister of India?",
+        "2": "What is the minimum age to qualify for election to the Lok Sabha?",
+        "3": "Who is the current BJP President?"
+    },
+    "Maths" : {
+        "1": "What is 2+2x2?",
+        "2": "What is the next prime number after 7?",
+        "3": "What is the value of Pi?"
+    },
+    "Bollywood" : {
+        "1": "Who is the hero of the movie 'Swades'?",
+        "2": "Who won Filmfare award for best actor in 2017?",
+        "3": "What was the name of the alien in the movie 'Koi Mil Gaya'?"
+    },
+    "Cars" : {
+        "1": "Maserati is a car manufacturer from which country?",
+        "2": "Which animal appears on the Ford Mustang logo?",
+        "3": "Which car manufacturer has produced models A4, A6 and Quattro?"
+    },
+    "Animals" : {
+        "1": "Which is the only bird known to fly backwards?",
+        "2": "What does a caterpillar turn into?",
+        "3": "Which is the longest snake in the world?"
+    }
+
+}

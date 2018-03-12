@@ -1,119 +1,183 @@
 {
   "1" : {
-    "q" : "Who gives Robert Baratheon poisoned wine?",
-    "a" : "Cersei Lannister",
-    "b" : "Lancel Lannister ",
-    "c" : "Jaime Lannister",
-    "d" : "Petyr Baelish",
-    "s" : "b",
-    "50-50" : "a"
+    "q" : "Which finger's nail grows faster?",
+    "a" : "Middle finger",
+    "b" : "Index Finger",
+    "c" : "Thumb",
+    "d" : "Ring Finger",
+    "s" : "a",
+    "50-50" : "c"
   },
   "2" : {
-    "q" : "What's the name of the explosive that gave the Lannisters the edge in the Battle of Blackwaters Bay?",
-    "a" : "DragonFire",
-    "b" : "WildFire",
-    "c" : "GhostFire",
-    "d" : "GodsFire",
+    "q" : "Where is the smallest bone in the body?",
+    "a" : "Nose",
+    "b" : "Ear",
+    "c" : "Finger",
+    "d" : "Toe",
     "s" : "b",
     "50-50" : "a"
   },
   "3" : {
-    "q" : "Who is known as “The Queen of Thorns”? ",
-    "a" : "Cersei Lannister",
-    "b" : "Margaery Tyrell",
-    "c" : "Olenna Tyrell",
-    "d" : "Yara Greyjoy",
+    "q" : "In which year was the first iPhone released?",
+    "a" : "2006",
+    "b" : "2005",
+    "c" : "2007",
+    "d" : "2008",
     "s" : "c",
-    "50-50" : "b"
-  },
-  "4" : {
-    "q" : "What relation is mad king to Daenerys Targaryen?",
-    "a" : "GrandFather",
-    "b" : "Father",
-    "c" : "Uncle",
-    "d" : "Brother",
-    "s" : "b",
     "50-50" : "a"
   },
+  "4" : {
+    "q" : "What is the most spoken language in the world?",
+    "a" : "French",
+    "b" : "Spanish",
+    "c" : "English",
+    "d" : "Chinese",
+    "s" : "d",
+    "50-50" : "c"
+  },
   "5" : {
-    "q" : "Which city did Daenerys Targaryen visit first?",
-    "a" : "Meereen",
-    "b" : "Qarth",
-    "c" : "Yunkai",
-    "d" : "Astapor",
-    "s" : "b",
-    "50-50" : "d"
+    "q" : "What is the current character limit of each tweet in Twitter?",
+    "a" : "280",
+    "b" : "260",
+    "c" : "300",
+    "d" : "140",
+    "s" : "a",
+    "50-50" : "b"
   },
   "6" : {
-    "q" : "What does one horn blast mean for the Night's Watch?",
-    "a" : "Rangers returning",
-    "b" : "Rangers in trouble",
-    "c" : "Wildlings spotted",
-    "d" : "Arrival of Lord Commander",
-    "s" : "a",
-    "50-50" : "d"
+    "q" : "In 2006 which internet related verb was added to dictionary?",
+    "a" : "To spam",
+    "b" : "To phish",
+    "c" : "To google",
+    "d" : "To troll",
+    "s" : "c",
+    "50-50" : "a"
   },
   "7" : {
-    "q" : "Where does Tyrion Lannister meet Shae first?",
-    "a" : "The Eyrie",
-    "b" : "The Lannister Camp",
-    "c" : "King’s Landing",
-    "d" : "A Brothel in the North",
-    "s" : "b",
-    "50-50" : "d"
+    "q" : "'Relationships matter' was the slogan of which social networking site?",
+    "a" : "LinkedIn",
+    "b" : "Twitter",
+    "c" : "Tinder",
+    "d" : "Shaadi.com",
+    "s" : "a",
+    "50-50" : "c"
   },
   "8" : {
-    "q" : "Which king or queen has Barristan Selmy NOT served?",
-    "a" : "Daenerys Targaryen",
-    "b" : "Robert Baratheon",
-    "c" : "Tommen Baratheon",
-    "d" : "Aerys II Targaryen",
+    "q" : "Walkman was the brand produced by which company?",
+    "a" : "Samsung",
+    "b" : "Toshiba",
+    "c" : "Sony",
+    "d" : "Motorola",
     "s" : "c",
     "50-50" : "d"
   },
   "9" : {
-    "q" : "Which title does Viserys Targaryen NOT use?",
-    "a" : "First of His Name",
-    "b" : "King of the Andals and the First Men",
-    "c" : "Protector of the Realm",
-    "d" : "Lord of the Seven Kingdoms",
-    "s" : "a",
-    "50-50" : "d"
+    "q" : "Which of these companies was founded by PayPal employees?",
+    "a" : "Flickr",
+    "b" : "Snapchat",
+    "c" : "YouTube",
+    "d" : "Twitter",
+    "s" : "c",
+    "50-50" : "a"
   },
   "10" : {
-    "q" : "Who does Oberyn Martell seek revenge for?",
-    "a" : "His wife",
-    "b" : "His mother",
-    "c" : "His daughter",
-    "d" : "His sister",
+    "q" : "Which music video uploaded to Youtube was the fastest to get 100 million views?",
+    "a" : "Baby by Justin Bieber",
+    "b" : "Bad by Michael Jackson",
+    "c" : "This is what you came for by Calvin Harris",
+    "d" : "Gentleman by PSY",
     "s" : "d",
-    "50-50" : "c"
+    "50-50" : "b"
   },
   "11" : {
-    "q" : "Which of these is NOT a group in the night’s watch?",
-    "a" : "The Rangers",
-    "b" : "The Builders",
-    "c" : "The Guards",
-    "d" : "The Stewards",
-    "s" : "c",
-    "50-50" : "b"
+    "q" : "The Statue of Liberty is the gift to US from which country?",
+    "a" : "Spain",
+    "b" : "France",
+    "c" : "UK",
+    "d" : "Italy",
+    "s" : "b",
+    "50-50" : "d"
   },
   "12" : {
-    "q" : "Which one of these is NOT a name of the three dragons?",
-    "a" : "Rhaegal",
-    "b" : "Viserion",
-    "c" : "Drogon",
-    "d" : "Balerion",
-    "s" : "d",
-    "50-50" : "b"
+    "q" : "Which of the following resolutions is generally described as UHD?",
+    "a" : "1920 x 1080",
+    "b" : "2048 x 1080",
+    "c" : "3840 x 2160",
+    "d" : "4096 x 2160",
+    "s" : "c",
+    "50-50" : "d"
   },
   "13" : {
-    "q" : "Who saves Sansa Stark during the Riot of King's Landing?",
-    "a" : "The Hound",
-    "b" : "Tyrion Lannister",
-    "c" : "Joffrey Lannister",
-    "d" : "Petyr Baelish",
+    "q" : "How many stars feature on the flag of New Zealand?",
+    "a" : "4",
+    "b" : "5",
+    "c" : "3",
+    "d" : "6",
     "s" : "a",
     "50-50" : "b"
+  },
+  "14" : {
+    "q" : "How many states are there in the United States of America?",
+    "a" : "49",
+    "b" : "50",
+    "c" : "51",
+    "d" : "48",
+    "s" : "b",
+    "50-50" : "a"
+  },
+  "15" : {
+    "q" : "When did the Second World War end?",
+    "a" : "1945",
+    "b" : "1946",
+    "c" : "1948",
+    "d" : "1956",
+    "s" : "a",
+    "50-50" : "b"
+  },
+  "16" : {
+    "q" : "How many days are there in a fortnight?",
+    "a" : "12",
+    "b" : "15",
+    "c" : "14",
+    "d" : "16",
+    "s" : "c",
+    "50-50" : "a"
+  },
+  "17" : {
+    "q" : "Which animal is present in the logo of Reserve Bank of India?",
+    "a" : "Tiger",
+    "b" : "Elephant",
+    "c" : "Lion",
+    "d" : "Peacock",
+    "s" : "a",
+    "50-50" : "b"
+  },
+  "18" : {
+    "q" : "Which part of the car does the ABS affect?",
+    "a" : "Gears",
+    "b" : "Steering Wheel",
+    "c" : "Brakes",
+    "d" : "Mileage",
+    "s" : "c",
+    "50-50" : "a"
+  },
+  "19" : {
+    "q" : "Name the largest internal organ in the human body",
+    "a" : "Heart",
+    "b" : "Liver",
+    "c" : "Brain",
+    "d" : "Large Intestine",
+    "s" : "b",
+    "50-50" : "d"
+  },
+  "20" : {
+    "q" : "Which scientist gave us the theory of relativity?",
+    "a" : "Newton",
+    "b" : "Albert Einstien",
+    "c" : "Stephen Hawking",
+    "d" : "Galileo",
+    "s" : "b",
+    "50-50" : "a"
   }
+
 }
