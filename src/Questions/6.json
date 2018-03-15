@@ -1,14 +1,7 @@
 {
     "10" : {
-        "1" : {
-            "q" : "In the acronym DSLR, what does letter R stand for?",
-            "a" : "Release",
-            "b" : "Regular",
-            "c" : "Reflex",
-            "d" : "Remote",
-            "s" : "c"
-          },
-          "2" : {
+        
+          "1" : {
             "q" : "What is the first element on the periodic table of elements?",
             "a" : "Hydrogen",
             "b" : "Helium",
@@ -17,7 +10,7 @@
             "s" : "a"
             
           },
-          "3" : {
+          "2" : {
             "q" : "How many bones are there in the human body?",
             "a" : "204",
             "b" : "208",
@@ -26,7 +19,7 @@
             "s" : "c"
             
           },
-          "4" : {
+          "3" : {
             "q" : "Which of these companies has a bird as its logo?",
             "a" : "Yahoo",
             "b" : "Spotify",
@@ -35,7 +28,7 @@
             "s" : "c"
             
           },
-          "5" : {
+          "4" : {
             "q" : "Which of these HTTP status code implies 'Resource not found'?",
             "a" : "200",
             "b" : "400",
@@ -44,16 +37,8 @@
             "s" : "d"
             
           },
-          "6" : {
-            "q" : "Which state has highest number of Rajya Sabha seats?",
-            "a" : "Uttar Pradesh",
-            "b" : "Andhra Pradesh",
-            "c" : "West Bengal",
-            "d" : "Madhya Pradesh",
-            "s" : "a"
-            
-          },
-          "7" : {
+          
+          "5" : {
             "q" : "The arrow under the Amazon logo points from the letter 'A' to which other letter in the name Amazon?",
             "a" : "N",
             "b" : "Z",
@@ -61,31 +46,9 @@
             "d" : "A",
             "s" : "b"
         },
-        "8" : {
-            "q" : "In what order did the Bronze Age, Iron Age, and Stone Age occur?",
-            "a" : "Stone Age, Bronze Age, Iron Age",
-            "b" : "Bronze Age, Stone Age, Iron Age",
-            "c" : "Stone Age, Iron Age, Bronze Age",
-            "d" : "Bronze Age, Iron Age, Stone Age",
-            "s" : "a"
-        },
-        "9" : {
-            "q" : "Who among the following have not won the ICC Cricket World Cup?",
-            "a" : "Pakistan",
-            "b" : "England",
-            "c" : "West Indies",
-            "d" : "Sri Lanka",
-            "s" : "b"
-        },
-        "10" : {
-            "q" : "The arrow under the Amazon logo points from the letter 'A' to which other letter in the name Amazon?",
-            "a" : "N",
-            "b" : "Z",
-            "c" : "O",
-            "d" : "A",
-            "s" : "b"
-        },
-        "11" : {
+       
+       
+        "6" : {
             "q" : "Which is the hottest planet in our solar system?",
             "a" : "Mars",
             "b" : "Venus",
@@ -94,7 +57,7 @@
             "s" : "b"
         },
         
-        "12" : {
+        "7" : {
             "q" : "Which is the capital of Australia?",
             "a" : "Melbourne",
             "b" : "Sydney",
@@ -104,7 +67,7 @@
             
           },
         
-        "13" : {
+        "8" : {
             "q" : "What number is the top most right in the snakes and ladder game?",
             "a" : "10",
             "b" : "100",
@@ -112,7 +75,7 @@
             "d" : "1",
             "s" : "c"
         },
-        "14" : {
+        "9" : {
             "q" : "When added together, how many days are there in June, July and August?",
             "a" : "91",
             "b" : "92",
@@ -120,7 +83,7 @@
             "d" : "90",
             "s" : "b"
         },
-        "15" : {
+        "10" : {
             "q" : "How many holes are there in a ten pin bowling ball?",
             "a" : "4",
             "b" : "3",
@@ -128,7 +91,7 @@
             "d" : "5",
             "s" : "b"
         },
-        "16" : {
+        "11" : {
             "q" : "How many consonants are there in English alphabet?",
             "a" : "19",
             "b" : "20",
@@ -136,7 +99,7 @@
             "d" : "21",
             "s" : "d"
         },
-        "17" : {
+        "12" : {
             "q" : "How many right angles are there in a rectangle?",
             "a" : "4",
             "b" : "2",
@@ -144,7 +107,7 @@
             "d" : "6",
             "s" : "a"
         },
-        "18" : {
+        "13" : {
             "q" : "In the hexadecimal format, what color is 'FFFFFF'?",
             "a" : "Red",
             "b" : "Grey",
@@ -152,7 +115,7 @@
             "d" : "Black",
             "s" : "c"
         },
-        "19" : {
+        "14" : {
             "q" : "Which condition is treated with insulin?",
             "a" : "Epilepsy",
             "b" : "Diabetes",
@@ -160,7 +123,7 @@
             "d" : "Cancer",
             "s" : "b"
         },
-        "20" : {
+        "15" : {
             "q" : "What is the name of Microsoft's search engine?",
             "a" : "Google",
             "b" : "Bing",
@@ -168,15 +131,8 @@
             "d" : "Azure",
             "s" : "b"
         },
-        "21" : {
-            "q" : "A dice is rolled. What is the probability of getting a multiple of 5?",
-            "a" : "1/6",
-            "b" : "1/5",
-            "c" : "1/4",
-            "d" : "1/2",
-            "s" : "a"
-        },
-        "22" : {
+       
+        "16" : {
             "q" : "What are the two colors in Dominos Pizza logo?",
             "a" : "Red and Blue",
             "b" : "Red and Yellow",
@@ -184,7 +140,7 @@
             "d" : "No specific color",
             "s" : "a"
         },
-        "23" : {
+        "17" : {
             "q" : "What is the first letter on a typewriter?",
             "a" : "Q",
             "b" : "A",
@@ -192,7 +148,7 @@
             "d" : "P",
             "s" : "a"
         },
-        "24" : {
+        "18" : {
             "q" : "If in a dice, the numbers are represented by dots, totally how many dots are there in that dice?",
             "a" : "19",
             "b" : "22",
@@ -200,7 +156,7 @@
             "d" : "21",
             "s" : "d"
         },
-        "25" : {
+        "19" : {
             "q" : "Which is the smallest ocean in the world?",
             "a" : "Arctic Ocean",
             "b" : "Atlantic Ocean",
@@ -212,60 +168,326 @@
 
     "20" : {
         "1" : {
-            "q" : "Which finger's nail grows faster?",
-            "a" : "Middle finger",
-            "b" : "Index Finger",
-            "c" : "Thumb",
-            "d" : "Ring Finger",
+            "q" : "In the acronym DSLR, what does letter R stand for?",
+            "a" : "Release",
+            "b" : "Regular",
+            "c" : "Reflex",
+            "d" : "Remote",
+            "s" : "c"
+          },
+          "2" : {
+            "q" : "Which state has highest number of Rajya Sabha seats?",
+            "a" : "Uttar Pradesh",
+            "b" : "Andhra Pradesh",
+            "c" : "West Bengal",
+            "d" : "Madhya Pradesh",
             "s" : "a"
             
           },
-          "2" : {
-            "q" : "Where is the smallest bone in the body?",
-            "a" : "Nose",
-            "b" : "Ear",
-            "c" : "Finger",
-            "d" : "Toe",
+          "3" : {
+            "q" : "In what order did the Bronze Age, Iron Age, and Stone Age occur?",
+            "a" : "Stone Age, Bronze Age, Iron Age",
+            "b" : "Bronze Age, Stone Age, Iron Age",
+            "c" : "Stone Age, Iron Age, Bronze Age",
+            "d" : "Bronze Age, Iron Age, Stone Age",
+            "s" : "a"
+        },
+        "4" : {
+            "q" : "Who among the following have not won the ICC Cricket World Cup?",
+            "a" : "Pakistan",
+            "b" : "England",
+            "c" : "West Indies",
+            "d" : "Sri Lanka",
+            "s" : "b"
+        },
+        "5" : {
+            "q" : "A dice is rolled. What is the probability of getting a multiple of 5?",
+            "a" : "1/6",
+            "b" : "1/5",
+            "c" : "1/4",
+            "d" : "1/2",
+            "s" : "a"
+        },
+        "6" : {
+            "q" : "Which metal is liquid at room temperature?",
+            "a" : "Titanium",
+            "b" : "Mercury",
+            "c" : "Radium",
+            "d" : "Tungsten",
+            "s" : "b"
+            
+          },
+          "7" : {
+            "q" : "Which of these countries has no income tax?",
+            "a" : "UAE",
+            "b" : "Bermuda",
+            "c" : "Monaco",
+            "d" : "All of the above",
+            "s" : "d"
+            
+          },
+          "8" : {
+            "q" : "Which country is also known as 'The Rainbow Nation'?",
+            "a" : "Switzerland",
+            "b" : "New Zealand",
+            "c" : "South Africa",
+            "d" : "Brazil",
+            "s" : "c"
+        },
+        "9" : {
+            "q" : "Which of these states has English as official language?",
+            "a" : "Assam",
+            "b" : "Nagaland",
+            "c" : "Manipur",
+            "d" : "Goa",
             "s" : "b"
            
           },
-          "3" : {
-            "q" : "In which year was the first iPhone released?",
-            "a" : "2006",
-            "b" : "2005",
-            "c" : "2007",
-            "d" : "2008",
+          "10" : {
+            "q" : "In which country was Albert Einstein born?",
+            "a" : "USA",
+            "b" : "Italy",
+            "c" : "Germany",
+            "d" : "Great Britain",
             "s" : "c"
+          },
+          "11" : {
+            "q" : "After how many years of marraige do you celebrate your Silver wedding Anniversary?",
+            "a" : "15",
+            "b" : "25",
+            "c" : "10",
+            "d" : "5",
+            "s" : "b"
             
+          },
+          "12" : {
+            "q" : "For what does the R in the imaging system MRI stand?",
+            "a" : "Rotational",
+            "b" : "Reactive",
+            "c" : "Reflexive",
+            "d" : "Resonance",
+            "s" : "d"
+          },
+
+          "13" : {
+            "q" : "What are the words called which share same pronunciation but have different meanings?",
+            "a" : "Antonyms",
+            "b" : "Homonyms",
+            "c" : "Homophones",
+            "d" : "Homographs",
+            "s" : "b"
+          },
+
+          "14" : {
+            "q" : "Which of these metabolic process converts sugar to alcohol?",
+            "a" : "Fermentation",
+            "b" : "Distillation",
+            "c" : "Electrolysis",
+            "d" : "Decomposition",
+            "s" : "a"
+          },
+
+          "15" : {
+            "q" : "Where will be the next Summer Olympics be held?",
+            "a" : "Paris",
+            "b" : "Tokyo",
+            "c" : "Macau",
+            "d" : "Beijing",
+            "s" : "b"
+          },
+          "16" : {
+            "q" : "Chipko movement was related with conservation of what?",
+            "a" : "Soil",
+            "b" : "Water",
+            "c" : "Forests",
+            "d" : "Rivers",
+            "s" : "c"
+          },
+          "17" : {
+            "q" : "Petrology is the study of?",
+            "a" : "Petrol",
+            "b" : "Rocks",
+            "c" : "Fossils",
+            "d" : "Fuel",
+            "s" : "b"
+          },
+          "18" : {
+            "q" : "What dictates the order of chemical elements in the periodic table?",
+            "a" : "Atomic Number",
+            "b" : "Atomic mass",
+            "c" : "Molecular number",
+            "d" : "Density",
+            "s" : "a"
+          },
+          "19" : {
+            "q" : "Which state's High Court has jurisdiction over Lakshadweep?",
+            "a" : "Karnataka",
+            "b" : "Kerala",
+            "c" : "Goa",
+            "d" : "Maharashtra",
+            "s" : "b"
           }
+
     },
     "40" : {
         "1" : {
-            "q" : "Which finger's nail grows faster?",
-            "a" : "Middle finger",
-            "b" : "Index Finger",
-            "c" : "Thumb",
-            "d" : "Ring Finger",
-            "s" : "a"
+            "q" : "In which century did Leonardo da Vinci painted 'Mona Lisa'?",
+            "a" : "17th",
+            "b" : "16th",
+            "c" : "18th",
+            "d" : "15th",
+            "s" : "b"
            
           },
           "2" : {
-            "q" : "Where is the smallest bone in the body?",
-            "a" : "Nose",
-            "b" : "Ear",
-            "c" : "Finger",
-            "d" : "Toe",
-            "s" : "b"
+            "q" : "Which company produced the Laser Jet, the first commercially available printer, in 1984?",
+            "a" : "Epson",
+            "b" : "IBM",
+            "c" : "Xerox",
+            "d" : "HP",
+            "s" : "d"
             
           },
           "3" : {
-            "q" : "In which year was the first iPhone released?",
-            "a" : "2006",
-            "b" : "2005",
-            "c" : "2007",
-            "d" : "2008",
+            "q" : "Strings in switch statement is added from which version of Java?",
+            "a" : "Java 7",
+            "b" : "Java 6",
+            "c" : "Java 5",
+            "d" : "Java 8",
+            "s" : "a"
+          },
+          "4" : {
+            "q" : "What is a sapiosexual person most attracted to?",
+            "a" : "Transgender",
+            "b" : "Intelligence",
+            "c" : "Philosophy",
+            "d" : "Internet",
+            "s" : "b"
+          },
+       
+        "5" : {
+          "q" : "Which is the 4th most populated country in the world?",
+          "a" : "Russia",
+          "b" : "Brazil",
+          "c" : "USA",
+          "d" : "Indonesia",
+          "s" : "d"
+        },
+        "6" : {
+            "q" : "Where was the electricity supply first introduced in India?",
+            "a" : "Mumbai",
+            "b" : "Delhi",
+            "c" : "Kolkata",
+            "d" : "Hyderabad",
             "s" : "c"
-           
+          },
+          "7" : {
+            "q" : "Which markup language was developed by Microsoft?",
+            "a" : "XML",
+            "b" : "HTML",
+            "c" : "XHTML",
+            "d" : "XAML",
+            "s" : "d"
+          },
+          "8" : {
+            "q" : "Which of the following is not a file system?",
+            "a" : "FAT32",
+            "b" : "NTFS",
+            "c" : "APFS",
+            "d" : "N64",
+            "s" : "d"
+          },
+          "9" : {
+            "q" : "Which country was previously known as 'Rhodesia'?",
+            "a" : "Russia",
+            "b" : "Kenya",
+            "c" : "Zimbabwe",
+            "d" : "South Africa",
+            "s" : "c"
+          },
+          "10" : {
+            "q" : "Where is the World's busiest airport by passanger traffic?",
+            "a" : "Beijing",
+            "b" : "Atlanta",
+            "c" : "New York",
+            "d" : "Dubai",
+            "s" : "b"
+          },
+          "11" : {
+            "q" : "VAT was first introduced in which country?",
+            "a" : "USA",
+            "b" : "China",
+            "c" : "UK",
+            "d" : "France",
+            "s" : "d"
+          },
+          "12" : {
+            "q" : "Which country has the largest army in the world?",
+            "a" : "USA",
+            "b" : "China",
+            "c" : "India",
+            "d" : "Russia",
+            "s" : "b"
+          },
+
+          "13" : {
+            "q" : "There is no nobel prize for?",
+            "a" : "Literature",
+            "b" : "Peace",
+            "c" : "Philosophy",
+            "d" : "Chemistry",
+            "s" : "c"
+          },
+
+          "14" : {
+            "q" : "What part of the body produces insulin?",
+            "a" : "Liver",
+            "b" : "Gall Bladder",
+            "c" : "Pancreas",
+            "d" : "Stomach",
+            "s" : "c"
+          },
+
+          "15" : {
+            "q" : "'Dandia' is the popular dance of which of these states?",
+            "a" : "Punjab",
+            "b" : "Haryana",
+            "c" : "Orissa",
+            "d" : "Gujurat",
+            "s" : "d"
+          },
+
+          "16" : {
+            "q" : "In which year was our National Anthem first sung?",
+            "a" : "1947",
+            "b" : "1911",
+            "c" : "1950",
+            "d" : "1915",
+            "s" : "b"
+          },
+          "17" : {
+            "q" : "Where is the headquarters of United Nations?",
+            "a" : "Geneva",
+            "b" : "Paris",
+            "c" : "London",
+            "d" : "New York",
+            "s" : "d"
+          },
+          "18" : {
+            "q" : "What is the S.I. unit of temperature?",
+            "a" : "Kelvin",
+            "b" : "Celsius",
+            "c" : "Fahrenheit",
+            "d" : "Centigrade",
+            "s" : "a"
+          },
+          "19" : {
+            "q" : "Who has the record of most ducks in ODI Cricket?",
+            "a" : "Wasim Akram",
+            "b" : "Shahid Afridi",
+            "c" : "Sanath Jayasuriya",
+            "d" : "Chamida Vaas",
+            "s" : "c"
           }
-    }
+        }
 }

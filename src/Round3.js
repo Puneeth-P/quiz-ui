@@ -17,6 +17,11 @@ import logo11 from "./Questions/3/11.png";
 import logo12 from "./Questions/3/12.png";
 import logo13 from "./Questions/3/13.png";
 import logo14 from "./Questions/3/14.png";
+import logo15 from "./Questions/3/15.png";
+import logo16 from "./Questions/3/16.png";
+import logo17 from "./Questions/3/17.png";
+import logo18 from "./Questions/3/18.png";
+import logo19 from "./Questions/3/19.png";
 
 
 
@@ -32,7 +37,7 @@ class Round3 extends Component {
            question: "",
            doneQuestionsList: [],
            min: 1,
-           max: 14,
+           max: 19,
            error: "Oops!! Round 3 images are exhausted!!",
            logo: ""
            
@@ -95,7 +100,7 @@ class Round3 extends Component {
         const questionPanelStyle = {width: "80%", marginLeft : "10%", marginTop: "10px"}
         const imageStyle = {height: "350px", width: "350px"}
         var content;
-        const arr = [logo1, logo2, logo3, logo4, logo5, logo6, logo7, logo8, logo9, logo10, logo11, logo12, logo13, logo14]
+        const arr = [logo1, logo2, logo3, logo4, logo5, logo6, logo7, logo8, logo9, logo10, logo11, logo12, logo13, logo14, logo15, logo16, logo17, logo18, logo19]
        
         
         if(this.state.showRules) {
@@ -108,8 +113,7 @@ class Round3 extends Component {
                                     <p>1) An image will be displayed, based on that questions will be asked</p>
                                     <p>2) No passing of questions to the next team</p>
                                     <p>3) For each right answer, team gets <b>20 Points</b></p>
-                                    <p>3) Wrong answer: <b>-10 Points</b> </p>
-                                    <p>6) If the main-team gets the help from bench-team, team gets <b>Half of the above points</b></p>
+                                    <p>4) Wrong answer: <b>-10 Points</b> </p>
                                 </Panel.Body>
                             </Panel>
                             <button className="btn panel-button" id="startRound1" onClick={this.startRound3}>Start Round 3</button>

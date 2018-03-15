@@ -35,8 +35,8 @@ class Round6 extends Component {
            done20Pointers: [],
            done40Pointers: [],
            min: 1,
-           max: 25,
-           error: "Oops!! Round 2 questions are exhausted!!",
+           max: 19,
+           error: "Oops!! Round 6 questions are exhausted!!",
            optionA: "",
            optionB: "",
            optionC: "",
@@ -90,7 +90,13 @@ class Round6 extends Component {
     start10Pointer(e) {
         this.resetToDefaults();
         this.setState({showRules: false});
-        var questionNo = (this.get10QuesNo(this.state.min, this.state.max)).toString();
+        var questionNo = (this.get10QuesNo(this.state.min, this.state.max));
+
+        if(questionNo == undefined) {
+            this.setState({ question: this.state.error });
+            return;
+        }
+        questionNo = questionNo.toString();
         console.log(questionNo);
         var questions = data["10"];
         var ques = questions[questionNo];
@@ -107,7 +113,13 @@ class Round6 extends Component {
     start20Pointer(e) {
         this.resetToDefaults();
         this.setState({showRules: false});
-        var questionNo = (this.get20QuesNo(this.state.min, this.state.max)).toString();
+        var questionNo = (this.get20QuesNo(this.state.min, this.state.max));
+
+        if(questionNo == undefined) {
+            this.setState({ question: this.state.error });
+            return;
+        }
+        questionNo = questionNo.toString();
         console.log(questionNo);
         var questions = data["20"];
         var ques = questions[questionNo];
@@ -123,7 +135,14 @@ class Round6 extends Component {
     start40Pointer(e) {
         this.resetToDefaults();
         this.setState({showRules: false});
-        var questionNo = (this.get40QuesNo(this.state.min, this.state.max)).toString();
+        var questionNo = (this.get40QuesNo(this.state.min, this.state.max));
+
+        if(questionNo == undefined) {
+            this.setState({ question: this.state.error });
+            return;
+        }
+
+        questionNo = questionNo.toString();
         console.log(questionNo);
         var questions = data["40"];
         var ques = questions[questionNo];

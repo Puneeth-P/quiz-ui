@@ -32,7 +32,7 @@
     "Cricket" : {
         "1": "Which is the current ICC top ranked T20 team in the world?",
         "2": "Who has scored the most runs in IPL till date?",
-        "3": "Who has the highest number of wickets in ODIs?"
+        "3": "Expand DRS"
     },
     "Football" : {
         "1": "Where was the 2014 Football world cup held?",
@@ -51,7 +51,7 @@
     },
     "Sports" : {
         "1": "How many players are on each side of the net in beach volleyball?",
-        "2": "Who won Australian Open 2018?",
+        "2": "Who won Australian Open 2018 Men's singles?",
         "3": "How many holes are there on a golf course?"
     },
     "Geography" : {

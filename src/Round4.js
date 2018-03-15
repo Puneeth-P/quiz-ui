@@ -84,9 +84,8 @@ class Round4 extends Component {
                                 </Panel.Heading>
                                 <Panel.Body bsClass="panel-body">
                                     <p>1) Brain Teasers, no options</p>
-                                    <p>2) No concept of main-team and bench-team, whole team can participate</p>
-                                    <p>3) For each right answer, team gets <b>20 Points</b></p>
-                                    <p>4) No negative for not answering/wrong answer and no passing of question to next round</p>
+                                    <p>2) For each right answer, team gets <b>20 Points</b></p>
+                                    <p>3) No negative for not answering/wrong answer and no passing of question to next round</p>
                                 </Panel.Body>
                             </Panel>
                             <button className="btn panel-button" id="startRound1" onClick={this.startRound4}>Start Round 4</button>

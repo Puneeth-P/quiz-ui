@@ -86,7 +86,6 @@ class Round1 extends Component {
                                     <p>3) For each right answer, team gets <b>20 Points</b></p>
                                     <p>4) No negative for not answering/wrong answer</p>
                                     <p>5) For right answer of the passed question, team gets <b>10 Points</b></p>
-                                    <p>6) If the main-team gets the help from bench-team, team gets <b>Half of the above points</b></p>
                                 </Panel.Body>
                             </Panel>
                             <button className="btn panel-button" id="startRound1" onClick={this.startRound1}>Start Round 1</button>

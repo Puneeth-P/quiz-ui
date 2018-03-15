@@ -316,7 +316,6 @@ getColor(option) {
                                     <p>2) 3 questions will be asked based on the domain choosen</p>
                                     <p>3) For each right answer, team gets <b>20 Points</b></p>
                                     <p>4) No negative for not answering/wrong answer and no passing of question to next round</p>
-                                    <p>5) If the main-team gets the help from bench-team, team gets <b>Half of the above points</b></p>
                                 </Panel.Body>
                             </Panel>
                            

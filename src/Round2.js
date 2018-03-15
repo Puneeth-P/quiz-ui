@@ -21,7 +21,7 @@ class Round2 extends Component {
            question: "",
            doneQuestionsList: [],
            min: 1,
-           max: 12,
+           max: 20,
            error: "Oops!! Round 2 questions are exhausted!!",
            optionA: "",
            optionB: "",
@@ -176,7 +176,6 @@ class Round2 extends Component {
                                     <p>4) There is a 50-50 option, where 2 incorrect options will be eliminated</p>
                                     <p>5) Giving correct answer using 50-50 fetches <b>10 Points</b></p>
                                     <p>6) Giving wrong answer using 50-50, the team loses <b>-10 Points</b></p>
-                                    <p>7) If the main-team gets the help from bench-team, team gets <b>Half of the above points</b></p>
                                 </Panel.Body>
                             </Panel>
                             <button className="btn panel-button" id="startRound1" onClick={this.startRound2}>Start Round 2</button>
