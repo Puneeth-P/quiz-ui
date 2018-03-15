@@ -144,15 +144,6 @@
     "50-50" : "a"
   },
   "17" : {
-    "q" : "Which animal is present in the logo of Reserve Bank of India?",
-    "a" : "Tiger",
-    "b" : "Elephant",
-    "c" : "Lion",
-    "d" : "Peacock",
-    "s" : "a",
-    "50-50" : "b"
-  },
-  "18" : {
     "q" : "Which part of the car does the ABS affect?",
     "a" : "Gears",
     "b" : "Steering Wheel",
@@ -161,7 +152,7 @@
     "s" : "c",
     "50-50" : "a"
   },
-  "19" : {
+  "18" : {
     "q" : "Name the largest internal organ in the human body",
     "a" : "Heart",
     "b" : "Liver",
@@ -170,7 +161,7 @@
     "s" : "b",
     "50-50" : "d"
   },
-  "20" : {
+  "19" : {
     "q" : "Which scientist gave us the theory of relativity?",
     "a" : "Newton",
     "b" : "Albert Einstien",
